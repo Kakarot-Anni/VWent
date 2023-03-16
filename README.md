@@ -114,5 +114,15 @@ NGOs and therapists often work in collaboration to provide comprehensive mental 
 Together, NGOs and therapists can help to reduce the negative impact of mental health problems on individuals and communities, and promote mental wellness for all.
 
   
+## The Working:
+#### How does the APPLICATION work?
 
+* The Person who is a fighter is first asked if he wishes to stay anonymous.
+* If he wishes to stays anonymous, he gets asked the porblems which are faced by him directly, If not, he is asked to fill in some basic details.
+* He gets a checkbox list and explains his problem.
 
+* On the other hand if the person logs in as a winner, he/she is also asked if he wishes to stay anonymous.
+* If he wishes to stay anonymous, he's asked what problems he faced and how did he conquer them directly, If not, he's asked to fill in some basic details.
+* He gets a checkbox list and explains his problem.
+
+#### We are basically establishing the link between the people who are facing the issues and those who have already faced the issues and are willing to help.
