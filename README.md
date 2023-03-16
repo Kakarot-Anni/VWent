@@ -37,8 +37,30 @@ Hey everyone, in this repository we have tried to include our contributions to t
 
 * Improved quality of life: Ultimately, taking care of your mental health can lead to an improved overall quality of life. It can help you feel happier, more fulfilled, and more connected to the world around you.
 
+## If this is such a big issue then why are no prior solutions?
+* Stigma and Shame: Mental health issues are often stigmatized and associated with shame, which can lead people to feel embarrassed or ashamed to seek help.
 
-#### VWent is a an application which focusses on "Mental Health".
+* Lack of Understanding: Many people may not fully understand mental health issues and their impact, which can lead them to overlook the importance of addressing them.
+
+* Belief in Self-Reliance: Some people may believe that mental health issues are something that can be overcome through willpower and personal strength, leading them to ignore the need for professional help.
+
+* Fear of Being Judged: People may worry about being judged or seen as weak if they admit to struggling with mental health issues, leading them to avoid seeking help.
+
+* Financial Constraints: Access to mental health care can be expensive and not covered by insurance, leading people to prioritize other expenses over their mental health.
+
+* Cultural and Religious Beliefs: Cultural or religious beliefs may view mental health issues as a weakness or punishment, leading individuals to ignore their mental health concerns.
+
+* Lack of Resources: Some people may not have access to mental health care resources or information, which can limit their ability to seek help.
+
+* Prioritizing Physical Health: Many people prioritize physical health over mental health, leading them to overlook mental health concerns.
+
+* Lack of Time: Busy schedules and the demands of daily life can make it difficult for people to prioritize their mental health and seek help.
+
+* Fear of Diagnosis: Some people may fear receiving a mental health diagnosis, which can lead them to avoid seeking help or ignore their symptoms.
+
+
+
+## VWent is a an application which focusses on "Mental Health".
 
 As the name suggests "VWent" is a cute wordplay Vent and Went, we give users both the choices of "Vent" and "Went out".
 
