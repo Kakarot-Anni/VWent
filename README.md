@@ -7,6 +7,15 @@ Hey everyone, in this repository we have tried to include our contributions to t
 
 
 ![image](https://user-images.githubusercontent.com/103282903/225695113-df7a8491-7a8b-45e1-b8c3-c1cdac93b436.png)
+![image](https://user-images.githubusercontent.com/103282903/225696006-cbb98f29-d1e5-4463-9e17-fcfa9bdd6417.png)
+
+
+```http
+  Cogs/Fun.py
+```
+
+
+##Are we solving the problem of 
 
 VWent is a an application which focusses on "Mental Health".
 
