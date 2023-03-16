@@ -71,4 +71,7 @@ We have divided our application into 3 basic buttons.
 | The Helpers| This section is dedicated to NGOs or specialists who work for Mental Health, for exper advice|
 
 
+## The Fighters
+``` The fighters
+
 
