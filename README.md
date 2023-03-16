@@ -10,7 +10,14 @@ Hey everyone, in this repository we have tried to include our contributions to t
 ![image](https://user-images.githubusercontent.com/103282903/225696006-cbb98f29-d1e5-4463-9e17-fcfa9bdd6417.png)
 
 ## Are we solving the problem of Population?
-<img alt="Github" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fwell-yes-but-actually-no-meme-aardman-the-pirates-pirate-gif-26563702&psig=AOvVaw2QA0AzKSeMae2-rtlbbNvo&ust=1679072541866000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJD5h-P24P0CFQAAAAAdAAAAABAg.gif" />
+![image](https://user-images.githubusercontent.com/103282903/225697239-f7ff53e8-e200-49e3-a90a-cae66e6cd94d.png)
+
+
+## We are solving the population's problem!
+![image](https://user-images.githubusercontent.com/103282903/225697511-615aca07-aef7-4011-93e2-09cdf4db65f8.png)
+![image](https://user-images.githubusercontent.com/103282903/225698098-0df4dfa1-5997-4262-9a4d-5076d8829baa.png)
+
+#### 
 
 
 VWent is a an application which focusses on "Mental Health".
