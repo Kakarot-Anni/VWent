@@ -7,8 +7,8 @@ Hey everyone, in this repository we have tried to include our contributions to t
 ## Problem Statement
 
 <img width="50%" height="70%" alt="Github" src="https://user-images.githubusercontent.com/103282903/225695113-df7a8491-7a8b-45e1-b8c3-c1cdac93b436.png" />
-![image](https://user-images.githubusercontent.com/103282903/225695113-df7a8491-7a8b-45e1-b8c3-c1cdac93b436.png)
-![image](https://user-images.githubusercontent.com/103282903/225696006-cbb98f29-d1e5-4463-9e17-fcfa9bdd6417.png)
+<img width="50%" height="70%" alt="Github" src="https://user-images.githubusercontent.com/103282903/225696006-cbb98f29-d1e5-4463-9e17-fcfa9bdd6417.png" />
+
 
 ## Are we solving the problem of Population?
 ![image](https://user-images.githubusercontent.com/103282903/225697239-f7ff53e8-e200-49e3-a90a-cae66e6cd94d.png)
