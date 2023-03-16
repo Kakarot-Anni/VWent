@@ -18,7 +18,24 @@ Hey everyone, in this repository we have tried to include our contributions to t
 <img width="50%" height="70%" alt="Github" src="https://user-images.githubusercontent.com/103282903/225697511-615aca07-aef7-4011-93e2-09cdf4db65f8.png" />
 <img width="50%" height="70%" alt="Github" src="https://user-images.githubusercontent.com/103282903/225698098-0df4dfa1-5997-4262-9a4d-5076d8829baa.png" />
 
-#### 
+## Around 900 Million people admit that they have somehow suffered from mental disorders in some point of their life.
+
+## Why Mental Health
+* Improved overall well-being: Taking care of your mental health can lead to improved emotional, psychological, and physical well-being. When your mental health is in good shape, you may feel more energized, positive, and productive.
+
+* Reduced stress: Prioritizing your mental health can help reduce stress levels. Chronic stress can have negative effects on physical health, such as increasing the risk of heart disease, obesity, and diabetes.
+
+* Better relationships: Good mental health can help improve relationships with family, friends, and coworkers. When you're in a good mental space, you may be more patient, understanding, and empathetic towards others.
+
+* Increased self-awareness: Prioritizing your mental health can help you develop a greater sense of self-awareness. This can help you better understand your thoughts, feelings, and behaviors, which can lead to personal growth and improved decision-making.
+
+* Improved work performance: Good mental health can lead to improved work performance, as it can enhance your focus, productivity, and creativity.
+
+* Enhanced resilience: Taking care of your mental health can help you build resilience to life's challenges. This can help you cope with stress, setbacks, and difficult situations.
+
+* Reduced stigma: By prioritizing mental health, individuals can help reduce the stigma around mental health issues. This can help encourage others to seek help and support when they need it.
+
+* Improved quality of life: Ultimately, taking care of your mental health can lead to an improved overall quality of life. It can help you feel happier, more fulfilled, and more connected to the world around you.
 
 
 #### VWent is a an application which focusses on "Mental Health".
