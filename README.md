@@ -85,6 +85,6 @@ We have divided our application into 3 basic buttons.
 
 * Previous negative experiences: If someone has previously disclosed their mental health struggles and been met with negative reactions or unhelpful responses, they may be hesitant to try again. They may fear being dismissed, invalidated, or ignored.
 
-* Personal choice: Finally, it's worth noting that some people simply prefer to keep their mental health private. They may feel that they can manage their symptoms on their own, or that they don't want to burden others with their problems. While it's important to encourage people to seek help when needed, it's also important to respect their autonomy and choices.
+* Personal choice: Finally, it's worth noting that some people simply prefer to keep their mental health private. They may feel that they can manage their symptoms on their own, or that they don't want to burden others with their problems. While it's important to encourage people to seek help when needed, it's also important to respect their autonomy and choices. ```
 
 
