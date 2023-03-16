@@ -129,3 +129,42 @@ Together, NGOs and therapists can help to reduce the negative impact of mental h
 
 * In case there is a person who is not able to connect to a person who has faced a similar problem before, and the bad luck is so bad that he's facing a totally new problem, the helpers come in handy here, they're going to help them. (Basically verfied mental health care problems and therapists)
 * The helpers can also help the fighters in case the winners' solution isn't handy for them.
+
+## Went out
+
+#### For "went out" the following is the workflow:
+
+* If the person is lonely and wishes to meet new people outside physically, then we wish to provide them with the dating app scenrio but really date.
+* There is a condition that if the two people wish to meet physically through our application they will have to do the KYC process.
+* They can meet share problems, solutions, go for a movie, and enjoy a liesure time together.
+
+## VWent Premium
+We have a complete possibility of making a premium version for the application.
+
+## BUT
+<img width="50%" height="70%" alt="Github" src="https://user-images.githubusercontent.com/103282903/225723299-9c74f16f-d9bb-4479-9bef-89a894b4f80e.png" />
+
+## WE ARE HERE TO MAKE A DIFFERENCE
+<img width="50%" height="70%" alt="Github" src="https://user-images.githubusercontent.com/103282903/225723299-9c74f16f-d9bb-4479-9bef-89a894b4f80e.png" />
+
+## BUT
+<img width="50%" height="70%" alt="Github" src="https://user-images.githubusercontent.com/103282903/225723299-9c74f16f-d9bb-4479-9bef-89a894b4f80e.png" />
+
+
+## WE NEED MONEY TOO :P
+#### For the helpers to be verified and the therapists to be paid and smart. 
+![image](https://user-images.githubusercontent.com/103282903/225723601-4ad30d39-eb13-458f-bdfd-915f8d999a60.png)
+
+
+## NFTS🤩🤩
+* We are going to gather our funds from NFTs which we're going to provide to our consumers or anyone who is interested.
+* Whatever we earn from these NFTs we're going to invest it into high quality therapists.
+* Revenue model will always revolve around the angel investors without equity stake. 
+* In worst case scenario, ad revenue 😔
+
+
+
+## Authors
+
+- [@dhanushlnaik](https://github.com/dhanushlnaik)
+- [@Kakarot-Anni](https://github.com/Kakarot-Anni)
