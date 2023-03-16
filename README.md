@@ -125,6 +125,7 @@ Together, NGOs and therapists can help to reduce the negative impact of mental h
 * On the other hand if the person logs in as a winner, he/she is also asked if he wishes to stay anonymous.
 * If he wishes to stay anonymous, he's asked what problems he faced and how did he conquer them directly, If not, he's asked to fill in some basic details.
 * He gets a checkbox list and explains his problem.
+![The Fighters](https://user-images.githubusercontent.com/103282903/225749239-abd21a4a-3b5a-4966-af70-762a7e900856.png)
 
 #### We are basically establishing the link between the people who are facing the issues and those who have already faced the issues and are willing to help.
 
