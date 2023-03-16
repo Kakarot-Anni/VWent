@@ -1,6 +1,7 @@
 # VWent
 Hey everyone, in this repository we have tried to include our contributions to the VWent Application.
-[img width="50%" height="50%"](https://user-images.githubusercontent.com/103282903/225692273-8e06291d-7947-4210-a753-47f29c4a7491.png)
+<img width="50%" height="50%" alt="Github" ![W](https://user-images.githubusercontent.com/103282903/225699055-ad088aec-680a-4e0f-a9bd-f6666f7965ea.png) />
+
 
 
 ## Problem Statement
