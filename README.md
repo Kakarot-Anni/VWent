@@ -126,3 +126,6 @@ Together, NGOs and therapists can help to reduce the negative impact of mental h
 * He gets a checkbox list and explains his problem.
 
 #### We are basically establishing the link between the people who are facing the issues and those who have already faced the issues and are willing to help.
+
+* In case there is a person who is not able to connect to a person who has faced a similar problem before, and the bad luck is so bad that he's facing a totally new problem, the helpers come in handy here, they're going to help them. (Basically verfied mental health care problems and therapists)
+* The helpers can also help the fighters in case the winners' solution isn't handy for them.
