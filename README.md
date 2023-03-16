@@ -116,6 +116,7 @@ Together, NGOs and therapists can help to reduce the negative impact of mental h
   
 ## The Working:
 #### How does the APPLICATION work?
+![image](https://user-images.githubusercontent.com/103282903/225742458-bf8a3927-2e99-4c66-af80-d6bd610efc09.png)
 
 * The Person who is a fighter is first asked if he wishes to stay anonymous.
 * If he wishes to stays anonymous, he gets asked the porblems which are faced by him directly, If not, he is asked to fill in some basic details.
