@@ -21,7 +21,7 @@ Hey everyone, in this repository we have tried to include our contributions to t
 #### 
 
 
-VWent is a an application which focusses on "Mental Health".
+#### VWent is a an application which focusses on "Mental Health".
 
 As the name suggests "VWent" is a cute wordplay Vent and Went, we give users both the choices of "Vent" and "Went out".
 
