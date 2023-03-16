@@ -145,7 +145,7 @@ We have a complete possibility of making a premium version for the application.
 <img width="50%" height="70%" alt="Github" src="https://user-images.githubusercontent.com/103282903/225723299-9c74f16f-d9bb-4479-9bef-89a894b4f80e.png" />
 
 ## WE ARE HERE TO MAKE A DIFFERENCE
-<img width="50%" height="70%" alt="Github" src="https://user-images.githubusercontent.com/103282903/225723299-9c74f16f-d9bb-4479-9bef-89a894b4f80e.png" />
+<img width="50%" height="70%" alt="Github" src="https://user-images.githubusercontent.com/103282903/225724255-1eefe856-2db8-467b-b8aa-04501b0d0bcc.png" />
 
 ## BUT
 <img width="50%" height="70%" alt="Github" src="https://user-images.githubusercontent.com/103282903/225723299-9c74f16f-d9bb-4479-9bef-89a894b4f80e.png" />
