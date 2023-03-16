@@ -89,5 +89,30 @@ The fighters are basically a set of people who are facing mental health issues:
 
 
 ## The Winners
+Mental health issues can be incredibly challenging, and they can affect anyone regardless of age, gender, or background. However, it's important to remember that recovery is possible, and many people who have struggled with mental health issues have gone on to lead happy and fulfilling lives.
+
+One example of someone who has won from their mental health issues is author and mental health advocate, Matt Haig. Haig struggled with depression and anxiety for many years and even attempted suicide at one point. However, through therapy and medication, he was able to manage his symptoms and eventually overcome his mental health challenges.
+
+Haig has since written several books about his experiences with mental illness, including "Reasons to Stay Alive" and "Notes on a Nervous Planet." He has also become a vocal advocate for mental health awareness, and his work has helped to break down stigma and promote understanding of mental health issues.
+
+Another example is Demi Lovato, who has been open about her struggles with addiction, bipolar disorder, and an eating disorder. Lovato has used her platform as a celebrity to raise awareness about mental health and has been an advocate for mental health treatment and support.
+
+Through therapy, medication, and other forms of treatment, Lovato has been able to manage her mental health challenges and has gone on to release several successful albums and continue her acting career.
+
+These are just two examples of many people who have won from their mental health issues and are now leading happy and fulfilling lives. While recovery can be a challenging and ongoing process, it's important to remember that there is always hope for a brighter future.
+
+## The Helpers
+
+NGOs (Non-Governmental Organizations) and therapists play an essential role in promoting mental health and providing support to those who are struggling with mental health issues.
+
+NGOs that focus on mental health aim to raise awareness about mental health issues, reduce the stigma surrounding mental illness, and provide education and support to those affected by mental health problems. These organizations often work to advocate for better mental health policies and access to mental health care.
+
+Therapists, on the other hand, work directly with individuals to help them manage and overcome mental health challenges. They use various therapeutic techniques to provide support and guidance to individuals struggling with mental health issues such as depression, anxiety, trauma, and addiction.
+
+NGOs and therapists often work in collaboration to provide comprehensive mental health support to individuals and communities. NGOs can refer individuals to therapists for specialized care, and therapists can refer individuals to NGOs for additional support and resources.
+
+Together, NGOs and therapists can help to reduce the negative impact of mental health problems on individuals and communities, and promote mental wellness for all.
+
+  
 
 
