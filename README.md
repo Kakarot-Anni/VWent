@@ -1,6 +1,6 @@
 # VWent
 Hey everyone, in this repository we have tried to include our contributions to the VWent Application.
-<img width="50%" height="50%" alt="Github" src="https://user-images.githubusercontent.com/103282903/225707120-a0560025-3659-47fb-8610-0a1cf63a9324.png" />
+<img width="50%" height="50%" alt="Github" src="https://user-images.githubusercontent.com/103282903/225699536-c565e4f3-f26d-40be-a0ba-9afcefe50002.png" />
 
 
 
@@ -65,11 +65,11 @@ Hey everyone, in this repository we have tried to include our contributions to t
 As the name suggests "VWent" is a cute wordplay Vent and Went, we give users both the choices of "Vent" and "Went out".
 
 We have divided our application into 3 basic buttons.
-|------------|
-The Fighters
-The Winners
-The Helpers
+| Button:   | Dedicated to:                |
+| :-------- | :------------------------- |
+| The Fighters | This section is dedicated to people who are currently fighting their mental health situations |
+| The Winners| This section is dedicated to people who have fought their devils are are ready to help the fighters|
+| The Helpers| This section is dedicated to NGOs or specialists who work for Mental Health, for exper advice|
 
-The Fighters:
->> The Fighters consists 
+
 
