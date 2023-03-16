@@ -1,6 +1,6 @@
 # VWent
 Hey everyone, in this repository we have tried to include our contributions to the VWent Application.
-<img width="50%" height="50%" alt="Github" src="https://user-images.githubusercontent.com/103282903/225699536-c565e4f3-f26d-40be-a0ba-9afcefe50002.png" />
+<img width="50%" height="50%" alt="Github" src="https://user-images.githubusercontent.com/103282903/225707120-a0560025-3659-47fb-8610-0a1cf63a9324.png" />
 
 
 
