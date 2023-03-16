@@ -12,3 +12,4 @@ We have divided our application into 3 basic buttons.
 The Fighters
 The Winners
 The Helpers
+|------------|
