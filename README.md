@@ -15,8 +15,8 @@ Hey everyone, in this repository we have tried to include our contributions to t
 
 
 ## We are solving the population's problem!
-![image](https://user-images.githubusercontent.com/103282903/225697511-615aca07-aef7-4011-93e2-09cdf4db65f8.png)
-![image](https://user-images.githubusercontent.com/103282903/225698098-0df4dfa1-5997-4262-9a4d-5076d8829baa.png)
+<img width="50%" height="70%" alt="Github" src="https://user-images.githubusercontent.com/103282903/225697511-615aca07-aef7-4011-93e2-09cdf4db65f8.png" />
+<img width="50%" height="70%" alt="Github" src="https://user-images.githubusercontent.com/103282903/225698098-0df4dfa1-5997-4262-9a4d-5076d8829baa.png" />
 
 #### 
 
