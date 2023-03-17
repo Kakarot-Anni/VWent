@@ -158,7 +158,7 @@ We have a complete possibility of making a premium version for the application.
 ![image](https://user-images.githubusercontent.com/103282903/225723601-4ad30d39-eb13-458f-bdfd-915f8d999a60.png)
 
 
-## AFFORDABILITY at VWent Out🤩🤩
+## AFFORDABILITY at VWent Out Premium🤩🤩
 * Verified Therapists Support
 * Support for calls and vent out sessions
 * Fast Reply support
