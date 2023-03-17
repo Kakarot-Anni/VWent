@@ -136,7 +136,7 @@ Together, NGOs and therapists can help to reduce the negative impact of mental h
 
 #### For "went out" the following is the workflow:
 
-* If the person is lonely and wishes to meet new people outside physically, then we wish to provide them with the dating app scenrio but really date.
+* If the person is lonely and wishes to meet new people outside physically, then we wish to provide them with the dating app scenrio but not really a date.
 * There is a condition that if the two people wish to meet physically through our application they will have to do the KYC process.
 * They can meet share problems, solutions, go for a movie, and enjoy a liesure time together.
 
@@ -158,11 +158,12 @@ We have a complete possibility of making a premium version for the application.
 ![image](https://user-images.githubusercontent.com/103282903/225723601-4ad30d39-eb13-458f-bdfd-915f8d999a60.png)
 
 
-## NFTS🤩🤩
-* We are going to gather our funds from NFTs which we're going to provide to our consumers or anyone who is interested.
-* Whatever we earn from these NFTs we're going to invest it into high quality therapists.
-* Revenue model will always revolve around the angel investors without equity stake. 
-* In worst case scenario, ad revenue 😔
+## AFFORDABILITY at VWent Out🤩🤩
+* Verified Therapists Support
+* Support for calls and vent out sessions
+* Fast Reply support
+* NGOs special support
+* Meditation sessions and Yoga Support
 
 
 
