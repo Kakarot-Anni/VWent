@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gr">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+
+        android:layout_marginTop="40dp"
+        android:src="@drawable/settings"
+        app:layout_constraintEnd_toStartOf="@+id/imageView2"
+        app:layout_constraintHorizontal_bias="0.095"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="@color/main1" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/star"
+        app:tint="@color/main1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.916"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Where do you need  support?"
+        android:textAllCaps="true"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.192" />
+
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/chipGroup"
+        android:layout_width="350dp"
+        android:layout_height="400dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        app:layout_constraintVertical_bias="0.42">
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/relch1"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:padding="20dp"
+            android:text="💝 Relationships"
+            android:textColor="@color/main1"
+            android:textStyle="bold"
+            app:chipBackgroundColor="@color/gr"
+            app:chipCornerRadius="12dp"
+            app:chipStrokeColor="@color/main1"
+            app:chipStrokeWidth="1.5dp" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/relch2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:padding="20dp"
+            android:text="👪 Family"
+            android:textColor="@color/main1"
+            android:textStyle="bold"
+            app:chipBackgroundColor="@color/gr"
+            app:chipCornerRadius="12dp"
+            app:chipStrokeColor="@color/main1"
+            app:chipStrokeWidth="1.5dp" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/relch3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:padding="20dp"
+            android:text="⛑️ Health"
+            android:textColor="@color/main1"
+            android:textStyle="bold"
+            app:chipBackgroundColor="@color/gr"
+            app:chipCornerRadius="12dp"
+            app:chipStrokeColor="@color/main1"
+            app:chipStrokeWidth="1.5dp" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/relch4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:padding="20dp"
+            android:text="💵 Financial"
+            android:textColor="@color/main1"
+            android:textStyle="bold"
+            app:chipBackgroundColor="@color/gr"
+            app:chipCornerRadius="12dp"
+            app:chipStrokeColor="@color/main1"
+            app:chipStrokeWidth="1.5dp" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/relch5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:padding="20dp"
+            android:text="💀 Bullying"
+            android:textColor="@color/main1"
+            android:textStyle="bold"
+            app:chipBackgroundColor="@color/gr"
+            app:chipCornerRadius="12dp"
+            app:chipStrokeColor="@color/main1"
+            app:chipStrokeWidth="1.5dp" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/relch6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:padding="20dp"
+            android:text="😔 Grief"
+            android:textColor="@color/main1"
+            android:textStyle="bold"
+            app:chipBackgroundColor="@color/gr"
+            app:chipCornerRadius="12dp"
+            app:chipStrokeColor="@color/main1"
+            app:chipStrokeWidth="1.5dp" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/relch7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:padding="20dp"
+            android:text="💭 Overthinking"
+            android:textColor="@color/main1"
+            android:textStyle="bold"
+            app:chipBackgroundColor="@color/gr"
+            app:chipCornerRadius="12dp"
+            app:chipStrokeColor="@color/main1"
+            app:chipStrokeWidth="1.5dp" />
+
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/relch8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:padding="20dp"
+            android:text="😶‍🌫️ Autism"
+            android:textColor="@color/main1"
+            android:textStyle="bold"
+            app:chipBackgroundColor="@color/gr"
+            app:chipCornerRadius="12dp"
+            app:chipStrokeColor="@color/main1"
+            app:chipStrokeWidth="1.5dp" />
+
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/relch9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:padding="20dp"
+            android:text="🔪 Self Harm"
+            android:textColor="@color/main1"
+            android:textStyle="bold"
+            app:chipBackgroundColor="@color/gr"
+            app:chipCornerRadius="12dp"
+            app:chipStrokeColor="@color/main1"
+            app:chipStrokeWidth="1.5dp" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/relch10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:padding="20dp"
+            android:text="👾 Phobias"
+            android:textColor="@color/main1"
+            android:textStyle="bold"
+            app:chipBackgroundColor="@color/gr"
+            app:chipCornerRadius="12dp"
+            app:chipStrokeColor="@color/main1"
+            app:chipStrokeWidth="1.5dp" />
+
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/relch11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:padding="20dp"
+            android:text="😑 Self Esteem"
+            android:textColor="@color/main1"
+            android:textStyle="bold"
+            app:chipBackgroundColor="@color/gr"
+            app:chipCornerRadius="12dp"
+            app:chipStrokeColor="@color/main1"
+            app:chipStrokeWidth="1.5dp" />
+
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/relch12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:padding="20dp"
+            android:text="🔗 Loss"
+            android:textColor="@color/main1"
+            android:textStyle="bold"
+            app:chipBackgroundColor="@color/gr"
+            app:chipCornerRadius="12dp"
+            app:chipStrokeColor="@color/main1"
+            app:chipStrokeWidth="1.5dp" />
+
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/relch13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:padding="20dp"
+            android:text="☠️ Body Image Issue"
+            android:textColor="@color/main1"
+            android:textStyle="bold"
+            app:chipBackgroundColor="@color/gr"
+            app:chipCornerRadius="12dp"
+            app:chipStrokeColor="@color/main1"
+            app:chipStrokeWidth="1.5dp" />
+
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/relch14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:padding="20dp"
+            android:text="💻 Workplace"
+            android:textColor="@color/main1"
+            android:textStyle="bold"
+            app:chipBackgroundColor="@color/gr"
+            app:chipCornerRadius="12dp"
+            app:chipStrokeColor="@color/main1"
+            app:chipStrokeWidth="1.5dp" />
+
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/relch15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:padding="20dp"
+            android:text="📚 Education"
+            android:textColor="@color/main1"
+            android:textStyle="bold"
+            app:chipBackgroundColor="@color/gr"
+            app:chipCornerRadius="12dp"
+            app:chipStrokeColor="@color/main1"
+            app:chipStrokeWidth="1.5dp" />
+
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/relch16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="10dp"
+            android:padding="20dp"
+            android:text="➕ Others, Please Specify"
+            android:textColor="@color/main1"
+            android:textStyle="bold"
+            app:chipBackgroundColor="@color/gr"
+            app:chipCornerRadius="12dp"
+            app:chipStrokeColor="@color/main1"
+            app:chipStrokeWidth="1.5dp" />
+
+
+    </com.google.android.material.chip.ChipGroup>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/main1"
+        android:elevation="10dp"
+        android:text="Continue"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/chipGroup"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

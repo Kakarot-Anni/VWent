@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:toolks="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    toolks:layout_width="match_parent"
+    toolks:layout_height="match_parent"
+    toolks:background="@color/main1"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        toolks:id="@+id/imageView"
+        toolks:layout_width="40dp"
+        toolks:layout_height="40dp"
+        toolks:layout_marginTop="40dp"
+        toolks:layout_marginEnd="224dp"
+        toolks:src="@drawable/settings"
+        app:layout_constraintEnd_toStartOf="@+id/imageView5"
+        app:layout_constraintHorizontal_bias="0.394"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        toolks:id="@+id/imageView5"
+        toolks:layout_width="40dp"
+        toolks:layout_height="40dp"
+        toolks:layout_marginTop="40dp"
+        toolks:src="@drawable/users"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.916"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <GridLayout
+        toolks:id="@+id/gridLayout"
+        toolks:layout_width="350dp"
+        toolks:layout_height="160dp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.241">
+
+        <androidx.cardview.widget.CardView
+            toolks:id="@+id/imageView1"
+            toolks:layout_width="160dp"
+            toolks:layout_height="160dp"
+            toolks:layout_row="0"
+            toolks:layout_column="0"
+            toolks:layout_gravity="left"
+            app:cardBackgroundColor="@color/main2"
+            app:cardCornerRadius="14dp"
+            toolks:elevation="40dp">
+
+            <ImageView
+                toolks:id="@+id/logo"
+                toolks:layout_width="140dp"
+                toolks:layout_height="140dp"
+                toolks:layout_row="0"
+                toolks:layout_column="0"
+                toolks:layout_gravity="center_horizontal"
+                toolks:src="@drawable/noun_fighter_2751979" />
+
+            <TextView
+                toolks:layout_width="wrap_content"
+                toolks:layout_height="wrap_content"
+                toolks:layout_gravity="center_horizontal"
+                toolks:fontFamily="@font/alatsi"
+
+                toolks:paddingTop="110dp"
+                toolks:text="The Fighters"
+                toolks:textAllCaps="true"
+                toolks:textColor="@color/white"
+
+                toolks:textSize="22dp" />
+
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            toolks:id="@+id/imageView6"
+            toolks:layout_width="160dp"
+            toolks:layout_height="160dp"
+            toolks:layout_row="0"
+            toolks:layout_column="0"
+            toolks:layout_gravity="right"
+            app:cardBackgroundColor="@color/main2"
+            app:cardCornerRadius="14dp"
+            toolks:elevation="40dp">
+
+            <ImageView
+                toolks:id="@+id/logo2"
+                toolks:layout_width="140dp"
+                toolks:layout_height="130dp"
+                toolks:layout_row="0"
+                toolks:layout_column="0"
+                toolks:layout_gravity="center_horizontal"
+                toolks:layout_marginTop="10dp"
+                toolks:src="@drawable/noun_high_five_2958238" />
+
+            <TextView
+                toolks:layout_width="wrap_content"
+                toolks:layout_height="wrap_content"
+                toolks:layout_gravity="center_horizontal"
+                toolks:fontFamily="@font/alatsi"
+
+                toolks:paddingTop="110dp"
+                toolks:text="The Winners"
+                toolks:textAllCaps="true"
+                toolks:textColor="@color/white"
+                toolks:textSize="22dp" />
+
+        </androidx.cardview.widget.CardView>
+
+
+    </GridLayout>
+
+    <androidx.cardview.widget.CardView
+        toolks:id="@+id/imageView7"
+        toolks:layout_width="300dp"
+        toolks:layout_height="250dp"
+        app:cardBackgroundColor="@color/main2"
+        app:cardCornerRadius="14dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gridLayout"
+        app:layout_constraintVertical_bias="0.666"
+        toolks:elevation="40dp">
+
+        <ImageView
+            toolks:layout_width="350dp"
+            toolks:layout_height="180dp"
+            toolks:layout_marginTop="30dp"
+            toolks:paddingRight="40dp"
+            toolks:src="@drawable/noun_health_3232560"
+            />
+
+
+        <TextView
+            toolks:layout_width="wrap_content"
+            toolks:layout_height="wrap_content"
+            toolks:layout_gravity="center_horizontal"
+            toolks:fontFamily="@font/alatsi"
+
+            toolks:paddingTop="190dp"
+            toolks:text="The Helpers"
+            toolks:textAllCaps="true"
+            toolks:textColor="@color/white"
+            toolks:textSize="35dp" />
+
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
