@@ -11,6 +11,7 @@ class CIWinner : AppCompatActivity() {
         setContentView(R.layout.activity_ciwinner)
         clickListener()
 
+
     }
     public fun clickListener(){
         var but = findViewById<Button>(R.id.button3)
