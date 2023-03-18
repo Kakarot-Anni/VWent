@@ -13,6 +13,20 @@
         android:theme="@style/Theme.VWent"
         tools:targetApi="31">
         <activity
+            android:name=".PaymentGateway"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".Premium"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".CIWinner"
             android:exported="false">
             <meta-data
