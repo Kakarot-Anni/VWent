@@ -167,9 +167,9 @@ We have a complete possibility of making a premium version for the application.
 
 ![image](https://user-images.githubusercontent.com/103282903/226010345-410ad2b4-c6af-4fa8-85b1-39b6a9b57e9f.png)
 ![image](https://user-images.githubusercontent.com/103282903/226074622-39e1ad36-cd15-4780-8ab1-4c07d2cb3532.png)
-<img width="35%" height="35%" alt="Github" src="https://user-images.githubusercontent.com/103282903/226074643-d40cbfa3-8b2c-4e45-95fe-202374bb2e65.png" />
-<img width="35%" height="35%" alt="Github" src="https://user-images.githubusercontent.com/103282903/226074658-f391567d-82d7-4960-83bd-fc60f1bf4298.png" />
-<img width="35%" height="35%" alt="Github" src="https://user-images.githubusercontent.com/103282903/226074680-15a5dd15-562f-4c14-b9b4-d5e791bf3a0d.png" />
+<img width="30%" height=35%" alt="Github" src="https://user-images.githubusercontent.com/103282903/226074643-d40cbfa3-8b2c-4e45-95fe-202374bb2e65.png" />
+<img width="30%" height="35%" alt="Github" src="https://user-images.githubusercontent.com/103282903/226074658-f391567d-82d7-4960-83bd-fc60f1bf4298.png" />
+<img width="30%" height="35%" alt="Github" src="https://user-images.githubusercontent.com/103282903/226074680-15a5dd15-562f-4c14-b9b4-d5e791bf3a0d.png" />
 
 
 ## Authors
